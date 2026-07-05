@@ -1,0 +1,2 @@
+ Bayesian Probability (Part 2)
+For Part 2 of this project, I implemented Bayes' Theorem using the IMDb Movie Reviews dataset. The implementation calculates the prior probability, likelihood, marginal probability, and posterior probability for selected keywords using basic Python operations. This demonstrates how probability can be used to predict whether a movie review is positive after observing specific keywords.
