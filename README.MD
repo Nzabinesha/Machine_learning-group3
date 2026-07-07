@@ -30,11 +30,8 @@ Group 2 ("Pros"/Fathers) — has its own average height (μ₂) and its own spre
 π₁ and π₂ — the mixing weights, i.e., what fraction of the whole dataset belongs to each group (these always add up to 1)
 The formula for a single bell curve (Gaussian density) at some height x is:
 
-We assumed this because height tends to  follow a bell curve, biologically. 
+We assumed this because height tends to  follow a bell curve, biologically.
 
+Section: When does EM stop?
 
-
-
-  
-
-
+We only ran 2 iterations here to fill in the tracking table for the presentation, but in general EM does not stop after a fixed number of steps. Each E-step/M-step pair is guaranteed to never decrease the log-likelihood, so we keep iterating and watch how much the log-likelihood changes between steps. Once that change drops below a small tolerance (e.g. 1e-4) — meaning another round of updates would barely move μ1, μ2, σ1², σ2², π1, π2 — we stop, because we've converged on parameters that (locally) best explain the pooled data.
