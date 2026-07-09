@@ -6,10 +6,10 @@ Group project for ALU — Probability Distributions, Bayesian Probability, and G
 
 | Member | Role / Responsibility |
 |---|---|
-| **Nzabinesha Merci** | EM Algorithm (Part 1) — data loading, E-step, initialization, tracking table, live classification demo |
-| **Ivan** | Bayesian Probability (Part 2) — keyword selection, Bayes' Theorem implementation |
-| **Dorian** | Gradient Descent Manual (Part 3) — chain-rule derivation, iteration calculations |
-| **Belyse** | Gradient Descent Code (Part 4) — SciPy derivative function, Matplotlib plots |
+| **Nzabinesha Merci** | EM Algorithm (Part 1) — data loading, E-step, initialization|
+| **Ivan** | Live demo and tracking table.
+| **Dorian** | Bayesian Probability (Part 2) — keyword selection, Bayes' Theorem implementation |
+| **Belyse** | Gradient Descent  (Part 3) — chain-rule derivation, iteration calculations |
 
 All four members contributed one full gradient descent iteration each in Part 3, and all four are prepared to speak to every part of the project during the live presentation.
 
