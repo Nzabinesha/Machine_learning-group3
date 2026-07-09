@@ -2,14 +2,6 @@
 
 Group project for ALU — Probability Distributions, Bayesian Probability, and Gradient Descent.
 
-## Team
-
-| Member | Role / Responsibility |
-|---|---|
-| **Nzabinesha Merci** | EM Algorithm (Part 1) — data loading, E-step, initialization|
-| **Ivan** | Live demo and tracking table.
-| **Dorian** | Bayesian Probability (Part 2) — keyword selection, Bayes' Theorem implementation |
-| **Belyse** | Gradient Descent  (Part 3) — chain-rule derivation, iteration calculations |
 
 All four members contributed one full gradient descent iteration each in Part 3, and all four are prepared to speak to every part of the project during the live presentation.
 
