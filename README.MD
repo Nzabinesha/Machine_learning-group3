@@ -123,11 +123,4 @@ Converts the Part 3 manual work into Python, matching every number exactly.
 3. For Part 1, `GaltonFamilies.csv` must be present in the working directory
 4. For Part 2, upload `IMDB Dataset.csv` when prompted by the file-upload cell
 
-## Presentation readiness
 
-- Verbal mean-split answer: ready, grounded in the 50.2% overlap statistic
-- Tracking table: printed live from the notebook
-- Live classification demo: re-run with the coach's height in real time
-- Bayesian keyword walkthrough: ready, using the "excellent" example
-- Gradient descent chain rule: shown explicitly for both derivatives, cross-checked against SciPy
-- All four members prepared to speak to every part of the project, per the assignment's Q&A requirement
